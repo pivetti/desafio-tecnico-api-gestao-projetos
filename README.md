@@ -39,7 +39,4 @@ A API encontra-se **funcional**, com endpoints implementados, regras de negócio
 - ❌ Mapeamento de DTOs com MapStruct
 - ⚠️ Mapeamentos realizados manualmente nos Services
 
-### 📌 Resumo
-O projeto atende aos **requisitos funcionais principais**, porém ainda não contempla todos os **testes automatizados, documentação avançada, segurança e infraestrutura**, que fazem parte dos **diferenciais avaliados** no desafio.
-
-Esse status reflete um projeto **em evolução**, com base sólida e pronto para receber melhorias incrementais.
+O projeto atende aos requisitos funcionais principais, porém ainda não contempla todos os testes automatizados, documentação avançada, segurança e infraestrutura, que fazem parte dos diferenciais avaliados no desafio.
