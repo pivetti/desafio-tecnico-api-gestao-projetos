@@ -2,6 +2,8 @@
 
 API REST desenvolvida em **Java 17 + Spring Boot** para gerenciamento de **projetos** e **tarefas (demandas)** de um time de desenvolvimento. O objetivo do sistema é permitir a criação e organização de projetos, o acompanhamento do status das tarefas e a realização de consultas com filtros.
 
+## Link do desafio: https://github.com/matheuslf/dev.matheuslf.desafio.inscritos
+
 ## 🚀 Tecnologias Utilizadas
 - Java 17
 - Spring Boot 4.0.1
@@ -12,8 +14,6 @@ API REST desenvolvida em **Java 17 + Spring Boot** para gerenciamento de **proje
 - Maven
 - JUnit 5 + MockMvc
 - Lombok
-
-# Link do desafio: https://github.com/matheuslf/dev.matheuslf.desafio.inscritos
 
 ## 🚧 Status do Projeto: **INCOMPLETO**
 
